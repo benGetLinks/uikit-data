@@ -1,93 +1,91 @@
-{
-	"nav-items": [{
-			"id": "ui-01",
-			"label": "Button",
-			"slug": "buttons"
-		},
-		{
-			"id": "ui-02",
-			"label": "Form Elements",
-			"slug": "form-elements"
-		},
-		{
-			"id": "ui-03",
-			"label": "Card",
-			"slug": "card"
-		},
-		{
-			"id": "ui-04",
-			"label": "Tag & Badges",
-			"slug": "tag-badges"
-		},
-		{
-			"id": "ui-05",
-			"label": "Alert",
-			"slug": "alert"
-		},
-		{
-			"id": "ui-06",
-			"label": "Colors",
-			"slug": "colors"
-		},
-		{
-			"id": "ui-07",
-			"label": "Typography",
-			"slug": "typography"
-		},
-		{
-			"id": "ui-08",
-			"label": "Icons",
-			"slug": "icons"
-		},
-		{
-			"id": "ui-09",
-			"label": "Links",
-			"slug": "links"
-		},
-		{
-			"id": "ui-10",
-			"label": "Grid System",
-			"slug": "grid-system"
-		},
-		{
-			"id": "ui-11",
-			"label": "Modals",
-			"slug": "modals"
-		},
-		{
-			"id": "ui-12",
-			"label": "PopOvers",
-			"slug": "popovers"
-		},
-		{
-			"id": "ui-13",
-			"label": "ToolTip",
-			"slug": "tooltip"
-		},
-		{
-			"id": "ui-14",
-			"label": "Pagination",
-			"slug": "pagination"
-		},
-		{
-			"id": "ui-15",
-			"label": "Dropdown",
-			"slug": "dropdown"
-		},
-		{
-			"id": "ui-16",
-			"label": "Embed Media",
-			"slug": "embed-media"
-		},
-		{
-			"id": "ui-17",
-			"label": "Navigation",
-			"slug": "navigation"
-		},
-		{
-			"id": "ui-18",
-			"label": "Footer",
-			"slug": "footer"
-		}
-	]
-}
+[{
+		"id": "ui-01",
+		"label": "Button",
+		"slug": "buttons"
+	},
+	{
+		"id": "ui-02",
+		"label": "Form Elements",
+		"slug": "form-elements"
+	},
+	{
+		"id": "ui-03",
+		"label": "Card",
+		"slug": "card"
+	},
+	{
+		"id": "ui-04",
+		"label": "Tag & Badges",
+		"slug": "tag-badges"
+	},
+	{
+		"id": "ui-05",
+		"label": "Alert",
+		"slug": "alert"
+	},
+	{
+		"id": "ui-06",
+		"label": "Colors",
+		"slug": "colors"
+	},
+	{
+		"id": "ui-07",
+		"label": "Typography",
+		"slug": "typography"
+	},
+	{
+		"id": "ui-08",
+		"label": "Icons",
+		"slug": "icons"
+	},
+	{
+		"id": "ui-09",
+		"label": "Links",
+		"slug": "links"
+	},
+	{
+		"id": "ui-10",
+		"label": "Grid System",
+		"slug": "grid-system"
+	},
+	{
+		"id": "ui-11",
+		"label": "Modals",
+		"slug": "modals"
+	},
+	{
+		"id": "ui-12",
+		"label": "PopOvers",
+		"slug": "popovers"
+	},
+	{
+		"id": "ui-13",
+		"label": "ToolTip",
+		"slug": "tooltip"
+	},
+	{
+		"id": "ui-14",
+		"label": "Pagination",
+		"slug": "pagination"
+	},
+	{
+		"id": "ui-15",
+		"label": "Dropdown",
+		"slug": "dropdown"
+	},
+	{
+		"id": "ui-16",
+		"label": "Embed Media",
+		"slug": "embed-media"
+	},
+	{
+		"id": "ui-17",
+		"label": "Navigation",
+		"slug": "navigation"
+	},
+	{
+		"id": "ui-18",
+		"label": "Footer",
+		"slug": "footer"
+	}
+]
