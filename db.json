@@ -1,7 +1,7 @@
 {
 	"data": [{
 			"id": "ui-01",
-			"label": "Button",
+			"label": "Buttons",
 			"slug": "buttons"
 		},
 		{
@@ -11,18 +11,18 @@
 		},
 		{
 			"id": "ui-03",
-			"label": "Card",
-			"slug": "card"
+			"label": "Cards",
+			"slug": "cards"
 		},
 		{
 			"id": "ui-04",
 			"label": "Tag & Badges",
-			"slug": "tag-badges"
+			"slug": "tags-badges"
 		},
 		{
 			"id": "ui-05",
-			"label": "Alert",
-			"slug": "alert"
+			"label": "Alerts",
+			"slug": "alerts"
 		},
 		{
 			"id": "ui-06",
