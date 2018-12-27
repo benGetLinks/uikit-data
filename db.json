@@ -89,5 +89,17 @@
 			"label": "Footer",
 			"slug": "footer"
 		}
+	],
+	"components": [
+		{
+			"id": "ui-01",
+			"name": "Buttons Component",
+			"page": "<ButtonsPage />"
+		},
+		{
+			"id": "ui-02",
+			"name": "Alerts Component",
+			"page": "<AlertsPage />"
+		}
 	]
 }
